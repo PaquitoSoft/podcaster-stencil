@@ -1,0 +1,31 @@
+body {
+	margin: 0;
+}
+
+podcaster-app {
+	font-family: Arial, Helvetica, sans-serif;
+
+	& > div {
+		padding: 0 20px 0 20px;
+	}
+
+	a {
+		color: #337ab7;
+		text-decoration: none;
+	}
+	a:hover {
+		text-decoration: underline;
+	}
+
+	.text-center {
+		text-align: center;
+	}
+
+	.main-content {
+		width: 85%;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 15px;
+		// background-color: beige;
+	}
+}
