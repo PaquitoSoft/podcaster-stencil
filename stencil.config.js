@@ -5,7 +5,8 @@ exports.config = {
 		'podcaster-app',
 		'app-header',
 		'podcast-summary',
-		'home-view'
+		'home-view',
+		'podcast-view'
 	] }
   ],
   collections: [
